@@ -1,0 +1,1922 @@
+[
+  {
+    "id": "mob-2026-001",
+    "slug": "samsung-galaxy-s26-ultra-5g-256gb",
+    "sku": "RGS-MOB-SAM-S26U-256",
+    "brand": "Samsung",
+    "model": "Galaxy S26 Ultra 5G 256GB",
+    "price": 189999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "flagship"
+    ],
+    "tags": [
+      "samsung",
+      "galaxy-s26",
+      "5g",
+      "dhaka"
+    ],
+    "short_description": "Premium Galaxy flagship with S Pen, Galaxy AI, and a high-end camera system.",
+    "description": "## Samsung Galaxy S26 Ultra 5G\nA premium Android flagship for users who want top performance, a large display, S Pen productivity, and advanced camera features.\n\n- 5G ready\n- Galaxy AI features\n- Flagship display and camera setup\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2026-002",
+    "slug": "samsung-galaxy-s26-plus-5g-256gb",
+    "sku": "RGS-MOB-SAM-S26P-256",
+    "brand": "Samsung",
+    "model": "Galaxy S26 Plus 5G 256GB",
+    "price": 139999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "flagship"
+    ],
+    "tags": [
+      "samsung",
+      "galaxy-s26-plus",
+      "5g",
+      "dhaka"
+    ],
+    "short_description": "Large-screen Galaxy S26 model with flagship performance and AI features.",
+    "description": "## Samsung Galaxy S26 Plus 5G\nA large-screen phone for power users who want flagship speed, long battery life, and Samsung's latest AI tools.\n\n- 5G support\n- Large AMOLED display\n- Triple camera setup\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2026-003",
+    "slug": "samsung-galaxy-s26-5g-256gb",
+    "sku": "RGS-MOB-SAM-S26-256",
+    "brand": "Samsung",
+    "model": "Galaxy S26 5G 256GB",
+    "price": 109999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "flagship"
+    ],
+    "tags": [
+      "samsung",
+      "galaxy-s26",
+      "compact",
+      "5g"
+    ],
+    "short_description": "Compact Galaxy S flagship with current-generation performance.",
+    "description": "## Samsung Galaxy S26 5G\nA compact flagship option with a bright display, fast performance, and Samsung's current Galaxy AI experience.\n\n- Compact flagship body\n- 5G connectivity\n- ProVisual camera features\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-004",
+    "slug": "samsung-galaxy-z-fold7-5g-512gb",
+    "sku": "RGS-MOB-SAM-ZF7-512",
+    "brand": "Samsung",
+    "model": "Galaxy Z Fold7 5G 512GB",
+    "price": 259999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "foldable"
+    ],
+    "tags": [
+      "samsung",
+      "foldable",
+      "galaxy-z-fold7",
+      "premium"
+    ],
+    "short_description": "Thin Galaxy foldable with tablet-style inner display and flagship features.",
+    "description": "## Samsung Galaxy Z Fold7 5G\nA premium foldable for multitasking, reading, productivity, and entertainment on a larger inner screen.\n\n- Foldable main display\n- Cover display for quick use\n- Galaxy AI support\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-005",
+    "slug": "samsung-galaxy-z-flip7-5g-256gb",
+    "sku": "RGS-MOB-SAM-ZFLIP7-256",
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip7 5G 256GB",
+    "price": 149999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "foldable"
+    ],
+    "tags": [
+      "samsung",
+      "flip",
+      "foldable",
+      "5g"
+    ],
+    "short_description": "Pocketable flip phone with flexible display and modern Galaxy features.",
+    "description": "## Samsung Galaxy Z Flip7 5G\nA stylish foldable phone for users who want a compact design, flexible camera angles, and a modern cover-screen experience.\n\n- Flip form factor\n- 5G support\n- Flexible camera use\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-006",
+    "slug": "samsung-galaxy-s25-ultra-5g-256gb",
+    "sku": "RGS-MOB-SAM-S25U-256",
+    "brand": "Samsung",
+    "model": "Galaxy S25 Ultra 5G 256GB",
+    "price": 174999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "flagship"
+    ],
+    "tags": [
+      "samsung",
+      "galaxy-s25-ultra",
+      "s-pen",
+      "5g"
+    ],
+    "short_description": "2025 Galaxy Ultra flagship with S Pen and advanced camera hardware.",
+    "description": "## Samsung Galaxy S25 Ultra 5G\nA high-end Android phone with S Pen productivity, a large display, and a versatile camera system.\n\n- S Pen support\n- Premium build\n- 5G ready\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-007",
+    "slug": "samsung-galaxy-s25-edge-5g-256gb",
+    "sku": "RGS-MOB-SAM-S25E-256",
+    "brand": "Samsung",
+    "model": "Galaxy S25 Edge 5G 256GB",
+    "price": 129999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "flagship"
+    ],
+    "tags": [
+      "samsung",
+      "galaxy-s25-edge",
+      "slim",
+      "5g"
+    ],
+    "short_description": "Slim Galaxy S25 series phone with flagship styling.",
+    "description": "## Samsung Galaxy S25 Edge 5G\nA slim Galaxy flagship option for buyers who care about design, display quality, and premium daily performance.\n\n- Slim profile\n- 5G support\n- Galaxy AI features\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-008",
+    "slug": "samsung-galaxy-a56-5g-256gb",
+    "sku": "RGS-MOB-SAM-A56-256",
+    "brand": "Samsung",
+    "model": "Galaxy A56 5G 256GB",
+    "price": 57999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "mid-range"
+    ],
+    "tags": [
+      "samsung",
+      "galaxy-a56",
+      "5g",
+      "value"
+    ],
+    "short_description": "Mid-range Galaxy A series phone with 5G and a polished AMOLED experience.",
+    "description": "## Samsung Galaxy A56 5G\nA balanced mid-range Samsung phone for everyday use, content, social apps, and reliable battery life.\n\n- 5G support\n- AMOLED display\n- Good daily performance\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-009",
+    "slug": "samsung-galaxy-a36-5g-256gb",
+    "sku": "RGS-MOB-SAM-A36-256",
+    "brand": "Samsung",
+    "model": "Galaxy A36 5G 256GB",
+    "price": 42999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "mid-range"
+    ],
+    "tags": [
+      "samsung",
+      "galaxy-a36",
+      "5g",
+      "budget"
+    ],
+    "short_description": "Affordable Samsung 5G phone for daily apps and media.",
+    "description": "## Samsung Galaxy A36 5G\nA practical Galaxy A series model for users who need 5G, Samsung software, and reliable day-to-day performance.\n\n- 5G ready\n- Large display\n- Good battery focus\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-010",
+    "slug": "apple-iphone-17-pro-max-256gb",
+    "sku": "RGS-MOB-APL-IP17PM-256",
+    "brand": "Apple",
+    "model": "iPhone 17 Pro Max 256GB",
+    "price": 219999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "ios",
+      "flagship"
+    ],
+    "tags": [
+      "apple",
+      "iphone-17-pro-max",
+      "ios",
+      "premium"
+    ],
+    "short_description": "Large-screen iPhone Pro model with A19 Pro performance and Pro camera features.",
+    "description": "## iPhone 17 Pro Max\nApple's large Pro iPhone for users who want the biggest display, strong battery life, and advanced camera features.\n\n- A19 Pro chip family\n- Pro camera system\n- iOS ecosystem\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-011",
+    "slug": "apple-iphone-17-pro-256gb",
+    "sku": "RGS-MOB-APL-IP17P-256",
+    "brand": "Apple",
+    "model": "iPhone 17 Pro 256GB",
+    "price": 194999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "ios",
+      "flagship"
+    ],
+    "tags": [
+      "apple",
+      "iphone-17-pro",
+      "ios",
+      "pro"
+    ],
+    "short_description": "Pro iPhone with compact flagship sizing and advanced camera features.",
+    "description": "## iPhone 17 Pro\nA Pro iPhone for buyers who want premium performance and camera tools in a smaller body than the Pro Max.\n\n- Pro performance\n- Advanced camera system\n- iOS updates\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-012",
+    "slug": "apple-iphone-17-256gb",
+    "sku": "RGS-MOB-APL-IP17-256",
+    "brand": "Apple",
+    "model": "iPhone 17 256GB",
+    "price": 139999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "ios",
+      "flagship"
+    ],
+    "tags": [
+      "apple",
+      "iphone-17",
+      "ios",
+      "5g"
+    ],
+    "short_description": "Mainstream iPhone 17 model for everyday premium iOS use.",
+    "description": "## iPhone 17\nA current-generation iPhone for users who want iOS, Apple services, strong cameras, and long software support.\n\n- iOS ecosystem\n- 5G support\n- Strong resale appeal\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-013",
+    "slug": "apple-iphone-17-air-256gb",
+    "sku": "RGS-MOB-APL-IP17AIR-256",
+    "brand": "Apple",
+    "model": "iPhone 17 Air 256GB",
+    "price": 164999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "ios",
+      "flagship"
+    ],
+    "tags": [
+      "apple",
+      "iphone-17-air",
+      "slim",
+      "ios"
+    ],
+    "short_description": "Slim iPhone option for users who want a lighter premium design.",
+    "description": "## iPhone 17 Air\nA slim iPhone model for buyers who prioritize lightweight design, iOS performance, and a premium display.\n\n- Slim body\n- iOS ecosystem\n- 5G ready\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-014",
+    "slug": "apple-iphone-16e-128gb",
+    "sku": "RGS-MOB-APL-IP16E-128",
+    "brand": "Apple",
+    "model": "iPhone 16e 128GB",
+    "price": 92999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "ios",
+      "value"
+    ],
+    "tags": [
+      "apple",
+      "iphone-16e",
+      "ios",
+      "value"
+    ],
+    "short_description": "Entry iPhone option for buyers who want newer iOS support at a lower price.",
+    "description": "## iPhone 16e\nA value-focused iPhone option for users entering the Apple ecosystem with modern iOS features.\n\n- iOS support\n- 5G ready\n- Compact daily phone\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-015",
+    "slug": "google-pixel-10-pro-xl-256gb",
+    "sku": "RGS-MOB-GGL-P10PXL-256",
+    "brand": "Google",
+    "model": "Pixel 10 Pro XL 256GB",
+    "price": 169999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "flagship"
+    ],
+    "tags": [
+      "google",
+      "pixel-10-pro-xl",
+      "camera",
+      "android"
+    ],
+    "short_description": "Large Google Pixel flagship focused on camera software and AI features.",
+    "description": "## Google Pixel 10 Pro XL\nA large Pixel flagship for buyers who want Google's camera processing, clean Android, and AI-first phone features.\n\n- Google AI features\n- Pixel camera processing\n- Clean Android experience\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-016",
+    "slug": "google-pixel-10-pro-256gb",
+    "sku": "RGS-MOB-GGL-P10P-256",
+    "brand": "Google",
+    "model": "Pixel 10 Pro 256GB",
+    "price": 149999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "flagship"
+    ],
+    "tags": [
+      "google",
+      "pixel-10-pro",
+      "camera",
+      "5g"
+    ],
+    "short_description": "Pixel Pro model with Google's camera and AI software experience.",
+    "description": "## Google Pixel 10 Pro\nA Pixel Pro phone for users who value computational photography, Android updates, and Google services.\n\n- Pro Pixel camera tools\n- Android updates\n- AI features\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-017",
+    "slug": "google-pixel-10-128gb",
+    "sku": "RGS-MOB-GGL-P10-128",
+    "brand": "Google",
+    "model": "Pixel 10 128GB",
+    "price": 104999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "flagship"
+    ],
+    "tags": [
+      "google",
+      "pixel-10",
+      "android",
+      "camera"
+    ],
+    "short_description": "Mainstream Pixel with clean Android and Google camera processing.",
+    "description": "## Google Pixel 10\nA clean Android phone for users who want Pixel camera features, Google AI tools, and long software support.\n\n- Pixel camera software\n- Clean Android\n- 5G support\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-018",
+    "slug": "google-pixel-10-pro-fold-256gb",
+    "sku": "RGS-MOB-GGL-P10PF-256",
+    "brand": "Google",
+    "model": "Pixel 10 Pro Fold 256GB",
+    "price": 249999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "foldable"
+    ],
+    "tags": [
+      "google",
+      "pixel-fold",
+      "foldable",
+      "android"
+    ],
+    "short_description": "Google foldable with Pixel software and a larger inner display.",
+    "description": "## Google Pixel 10 Pro Fold\nA foldable Pixel for multitasking, reading, camera features, and Google's Android experience on a larger screen.\n\n- Foldable display\n- Pixel software\n- AI camera tools\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-019",
+    "slug": "xiaomi-xiaomi-17-pro-max-512gb",
+    "sku": "RGS-MOB-XIA-17PM-512",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 17 Pro Max 512GB",
+    "price": 144999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "flagship"
+    ],
+    "tags": [
+      "xiaomi",
+      "xiaomi-17-pro-max",
+      "flagship",
+      "5g"
+    ],
+    "short_description": "Large Xiaomi flagship with premium performance and camera-focused hardware.",
+    "description": "## Xiaomi 17 Pro Max\nA premium Xiaomi flagship for buyers who want strong hardware, fast charging, and a large display.\n\n- Flagship chipset class\n- Fast charging focus\n- Large display\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-020",
+    "slug": "xiaomi-xiaomi-17-pro-512gb",
+    "sku": "RGS-MOB-XIA-17P-512",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 17 Pro 512GB",
+    "price": 129999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "flagship"
+    ],
+    "tags": [
+      "xiaomi",
+      "xiaomi-17-pro",
+      "5g",
+      "premium"
+    ],
+    "short_description": "Xiaomi Pro flagship with high-end specs and fast charging.",
+    "description": "## Xiaomi 17 Pro\nA Pro Xiaomi device for users who want flagship speed, premium design, and strong camera hardware.\n\n- High-end performance\n- 5G ready\n- Fast charging\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-021",
+    "slug": "xiaomi-xiaomi-17-256gb",
+    "sku": "RGS-MOB-XIA-17-256",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 17 256GB",
+    "price": 99999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "flagship"
+    ],
+    "tags": [
+      "xiaomi",
+      "xiaomi-17",
+      "android",
+      "5g"
+    ],
+    "short_description": "Current Xiaomi flagship for users who want high specs at a lower premium price.",
+    "description": "## Xiaomi 17\nA current-generation Xiaomi flagship with strong performance, a sharp display, and fast charging.\n\n- 5G support\n- Flagship-class hardware\n- Fast charging\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-022",
+    "slug": "xiaomi-xiaomi-15-ultra-512gb",
+    "sku": "RGS-MOB-XIA-15U-512",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 15 Ultra 512GB",
+    "price": 134999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "camera-phone"
+    ],
+    "tags": [
+      "xiaomi",
+      "xiaomi-15-ultra",
+      "camera",
+      "5g"
+    ],
+    "short_description": "Camera-focused Xiaomi Ultra flagship with premium hardware.",
+    "description": "## Xiaomi 15 Ultra\nA camera-focused flagship for buyers who want strong imaging hardware, premium build, and flagship Android performance.\n\n- Ultra camera focus\n- 5G support\n- Premium display\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-023",
+    "slug": "xiaomi-redmi-note-14-pro-plus-5g-256gb",
+    "sku": "RGS-MOB-XIA-RN14P5G-256",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 14 Pro Plus 5G 256GB",
+    "price": 44999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "mid-range"
+    ],
+    "tags": [
+      "redmi",
+      "note-14-pro-plus",
+      "5g",
+      "value"
+    ],
+    "short_description": "Value-focused Redmi Note phone with 5G and strong charging features.",
+    "description": "## Redmi Note 14 Pro Plus 5G\nA popular mid-range style phone for users who want a large display, fast charging, and solid camera specs.\n\n- 5G ready\n- Fast charging focus\n- Large display\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-024",
+    "slug": "poco-poco-f7-ultra-512gb",
+    "sku": "RGS-MOB-POC-F7U-512",
+    "brand": "Poco",
+    "model": "Poco F7 Ultra 512GB",
+    "price": 79999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "performance"
+    ],
+    "tags": [
+      "poco",
+      "f7-ultra",
+      "gaming",
+      "5g"
+    ],
+    "short_description": "Performance-focused Poco phone for gaming and heavy daily use.",
+    "description": "## Poco F7 Ultra\nA performance-first Android phone for buyers who want strong specs, gaming speed, and aggressive value.\n\n- Gaming-focused performance\n- 5G support\n- Fast charging\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-025",
+    "slug": "poco-poco-x7-pro-256gb",
+    "sku": "RGS-MOB-POC-X7P-256",
+    "brand": "Poco",
+    "model": "Poco X7 Pro 256GB",
+    "price": 42999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "performance"
+    ],
+    "tags": [
+      "poco",
+      "x7-pro",
+      "value",
+      "gaming"
+    ],
+    "short_description": "Affordable performance phone for gaming, streaming, and daily use.",
+    "description": "## Poco X7 Pro\nA value performance phone for users who want fast everyday speed and good battery life without flagship pricing.\n\n- Performance focus\n- Large display\n- Good value\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-026",
+    "slug": "oneplus-oneplus-13-256gb",
+    "sku": "RGS-MOB-OPL-13-256",
+    "brand": "OnePlus",
+    "model": "OnePlus 13 256GB",
+    "price": 114999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "flagship"
+    ],
+    "tags": [
+      "oneplus",
+      "oneplus-13",
+      "hasselblad",
+      "5g"
+    ],
+    "short_description": "OnePlus flagship with fast performance, premium display, and Hasselblad camera tuning.",
+    "description": "## OnePlus 13\nA flagship OnePlus phone for users who want fast Android performance, premium display quality, and camera tuning.\n\n- Flagship performance\n- Hasselblad camera tuning\n- Fast charging\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-027",
+    "slug": "oneplus-oneplus-13r-256gb",
+    "sku": "RGS-MOB-OPL-13R-256",
+    "brand": "OnePlus",
+    "model": "OnePlus 13R 256GB",
+    "price": 74999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "value-flagship"
+    ],
+    "tags": [
+      "oneplus",
+      "oneplus-13r",
+      "value",
+      "5g"
+    ],
+    "short_description": "Value flagship OnePlus model with strong performance for the price.",
+    "description": "## OnePlus 13R\nA value-focused flagship alternative for users who want speed, battery, and smooth software at a lower price.\n\n- Strong performance\n- 5G support\n- Fast charging\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-028",
+    "slug": "oneplus-oneplus-nord-5-256gb",
+    "sku": "RGS-MOB-OPL-NORD5-256",
+    "brand": "OnePlus",
+    "model": "OnePlus Nord 5 256GB",
+    "price": 52999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "mid-range"
+    ],
+    "tags": [
+      "oneplus",
+      "nord-5",
+      "mid-range",
+      "5g"
+    ],
+    "short_description": "Nord series mid-range phone with smooth software and fast charging.",
+    "description": "## OnePlus Nord 5\nA practical OnePlus Nord phone for buyers who want balanced performance, clean software feel, and fast charging.\n\n- 5G support\n- Smooth display\n- Fast charging\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-029",
+    "slug": "oppo-oppo-find-x9-pro-512gb",
+    "sku": "RGS-MOB-OPP-FX9P-512",
+    "brand": "Oppo",
+    "model": "Oppo Find X9 Pro 512GB",
+    "price": 134999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "camera-phone"
+    ],
+    "tags": [
+      "oppo",
+      "find-x9-pro",
+      "camera",
+      "5g"
+    ],
+    "short_description": "Oppo camera flagship with premium design and strong imaging features.",
+    "description": "## Oppo Find X9 Pro\nA camera-focused Oppo flagship for buyers who want premium imaging, high-end display quality, and fast charging.\n\n- Camera-first flagship\n- 5G ready\n- Premium design\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-030",
+    "slug": "oppo-oppo-reno14-pro-5g-256gb",
+    "sku": "RGS-MOB-OPP-RENO14P-256",
+    "brand": "Oppo",
+    "model": "Oppo Reno14 Pro 5G 256GB",
+    "price": 74999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "camera-phone"
+    ],
+    "tags": [
+      "oppo",
+      "reno14-pro",
+      "portrait",
+      "5g"
+    ],
+    "short_description": "Reno series phone focused on portrait photography and stylish design.",
+    "description": "## Oppo Reno14 Pro 5G\nA stylish camera phone for buyers who want portrait features, a polished display, and fast charging.\n\n- Portrait camera focus\n- 5G support\n- Slim design\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-031",
+    "slug": "vivo-vivo-x300-pro-512gb",
+    "sku": "RGS-MOB-VIV-X300P-512",
+    "brand": "Vivo",
+    "model": "Vivo X300 Pro 512GB",
+    "price": 139999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "camera-phone"
+    ],
+    "tags": [
+      "vivo",
+      "x300-pro",
+      "camera",
+      "5g"
+    ],
+    "short_description": "Vivo camera flagship with premium imaging hardware and display quality.",
+    "description": "## Vivo X300 Pro\nA premium Vivo phone for users who want camera-first hardware, strong display quality, and flagship Android performance.\n\n- Camera flagship\n- 5G ready\n- Premium design\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-032",
+    "slug": "vivo-vivo-x200-ultra-512gb",
+    "sku": "RGS-MOB-VIV-X200U-512",
+    "brand": "Vivo",
+    "model": "Vivo X200 Ultra 512GB",
+    "price": 129999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "camera-phone"
+    ],
+    "tags": [
+      "vivo",
+      "x200-ultra",
+      "camera",
+      "premium"
+    ],
+    "short_description": "Ultra camera-focused Vivo flagship for photography-heavy users.",
+    "description": "## Vivo X200 Ultra\nA high-end Vivo phone for users who want flagship imaging hardware, large display quality, and fast Android performance.\n\n- Ultra camera focus\n- Flagship performance\n- 5G support\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-033",
+    "slug": "vivo-vivo-v50-5g-256gb",
+    "sku": "RGS-MOB-VIV-V50-256",
+    "brand": "Vivo",
+    "model": "Vivo V50 5G 256GB",
+    "price": 64999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "mid-range"
+    ],
+    "tags": [
+      "vivo",
+      "v50",
+      "portrait",
+      "5g"
+    ],
+    "short_description": "Vivo V series model for portrait photos, style, and daily performance.",
+    "description": "## Vivo V50 5G\nA stylish mid-range phone for buyers who want portrait photography, a slim body, and reliable daily use.\n\n- Portrait camera focus\n- 5G ready\n- Slim design\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-034",
+    "slug": "iqoo-iqoo-13-256gb",
+    "sku": "RGS-MOB-IQO-13-256",
+    "brand": "iQOO",
+    "model": "iQOO 13 256GB",
+    "price": 94999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "performance"
+    ],
+    "tags": [
+      "iqoo",
+      "iqoo-13",
+      "gaming",
+      "5g"
+    ],
+    "short_description": "Performance Android phone for gaming, multitasking, and fast charging.",
+    "description": "## iQOO 13\nA performance-focused Android phone for gaming users and buyers who want strong specs at a competitive price.\n\n- Gaming focus\n- 5G ready\n- Fast charging\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-035",
+    "slug": "realme-realme-gt-7-pro-512gb",
+    "sku": "RGS-MOB-REL-GT7P-512",
+    "brand": "Realme",
+    "model": "Realme GT 7 Pro 512GB",
+    "price": 89999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "performance"
+    ],
+    "tags": [
+      "realme",
+      "gt-7-pro",
+      "performance",
+      "5g"
+    ],
+    "short_description": "Realme performance flagship with fast charging and gaming-friendly specs.",
+    "description": "## Realme GT 7 Pro\nA performance-first phone for users who want fast hardware, strong battery life, and aggressive value.\n\n- Flagship-class performance\n- Fast charging\n- 5G ready\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-036",
+    "slug": "realme-realme-14-pro-plus-5g-256gb",
+    "sku": "RGS-MOB-REL-14P-256",
+    "brand": "Realme",
+    "model": "Realme 14 Pro Plus 5G 256GB",
+    "price": 52999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "mid-range"
+    ],
+    "tags": [
+      "realme",
+      "14-pro-plus",
+      "5g",
+      "value"
+    ],
+    "short_description": "Mid-range Realme phone with large display, fast charging, and good value.",
+    "description": "## Realme 14 Pro Plus 5G\nA value-focused Android phone for buyers who want a stylish design, large display, and capable daily performance.\n\n- 5G support\n- Fast charging\n- Large display\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-037",
+    "slug": "nothing-nothing-phone-3-256gb",
+    "sku": "RGS-MOB-NTH-P3-256",
+    "brand": "Nothing",
+    "model": "Nothing Phone 3 256GB",
+    "price": 89999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "flagship"
+    ],
+    "tags": [
+      "nothing",
+      "phone-3",
+      "glyph",
+      "android"
+    ],
+    "short_description": "Distinctive Nothing phone with transparent-inspired design and clean software.",
+    "description": "## Nothing Phone 3\nA design-focused Android phone for users who want a different look, clean software, and strong everyday performance.\n\n- Unique design language\n- Clean Android feel\n- 5G support\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-038",
+    "slug": "nothing-nothing-phone-3a-pro-256gb",
+    "sku": "RGS-MOB-NTH-P3AP-256",
+    "brand": "Nothing",
+    "model": "Nothing Phone 3a Pro 256GB",
+    "price": 52999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "mid-range"
+    ],
+    "tags": [
+      "nothing",
+      "phone-3a-pro",
+      "mid-range",
+      "5g"
+    ],
+    "short_description": "Mid-range Nothing phone with clean software and distinctive styling.",
+    "description": "## Nothing Phone 3a Pro\nA mid-range Nothing phone for buyers who want a clean interface, stylish design, and solid value.\n\n- Distinct design\n- 5G ready\n- Clean software\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-039",
+    "slug": "motorola-motorola-razr-60-ultra-512gb",
+    "sku": "RGS-MOB-MOT-R60U-512",
+    "brand": "Motorola",
+    "model": "Motorola Razr 60 Ultra 512GB",
+    "price": 139999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "foldable"
+    ],
+    "tags": [
+      "motorola",
+      "razr-60-ultra",
+      "foldable",
+      "flip"
+    ],
+    "short_description": "Premium Motorola flip foldable with a compact pocketable design.",
+    "description": "## Motorola Razr 60 Ultra\nA premium flip phone for users who want foldable style, a useful cover screen, and strong daily performance.\n\n- Flip foldable\n- Large cover display style\n- 5G ready\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-040",
+    "slug": "motorola-motorola-edge-60-pro-256gb",
+    "sku": "RGS-MOB-MOT-E60P-256",
+    "brand": "Motorola",
+    "model": "Motorola Edge 60 Pro 256GB",
+    "price": 64999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "mid-range"
+    ],
+    "tags": [
+      "motorola",
+      "edge-60-pro",
+      "5g",
+      "mid-range"
+    ],
+    "short_description": "Motorola Edge model with curved display styling and fast charging.",
+    "description": "## Motorola Edge 60 Pro\nA polished mid-range Android phone for buyers who want a stylish display, clean software feel, and solid battery life.\n\n- 5G support\n- Curved display style\n- Fast charging\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-041",
+    "slug": "honor-honor-magic7-pro-512gb",
+    "sku": "RGS-MOB-HON-M7P-512",
+    "brand": "Honor",
+    "model": "Honor Magic7 Pro 512GB",
+    "price": 119999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "flagship"
+    ],
+    "tags": [
+      "honor",
+      "magic7-pro",
+      "camera",
+      "5g"
+    ],
+    "short_description": "Honor flagship with premium display, camera features, and fast charging.",
+    "description": "## Honor Magic7 Pro\nA premium Honor phone for users who want a flagship camera experience, fast charging, and high-end design.\n\n- Flagship performance\n- Camera focused\n- 5G support\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-042",
+    "slug": "honor-honor-400-pro-512gb",
+    "sku": "RGS-MOB-HON-400P-512",
+    "brand": "Honor",
+    "model": "Honor 400 Pro 512GB",
+    "price": 89999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "camera-phone"
+    ],
+    "tags": [
+      "honor",
+      "honor-400-pro",
+      "camera",
+      "5g"
+    ],
+    "short_description": "Honor camera-focused phone with strong display and charging features.",
+    "description": "## Honor 400 Pro\nA camera-friendly Honor phone for buyers who want a premium look, good display, and fast daily performance.\n\n- Camera-focused setup\n- 5G ready\n- Fast charging\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-043",
+    "slug": "huawei-huawei-pura-80-ultra-512gb",
+    "sku": "RGS-MOB-HUA-PURA80U-512",
+    "brand": "Huawei",
+    "model": "Huawei Pura 80 Ultra 512GB",
+    "price": 159999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "camera-phone"
+    ],
+    "tags": [
+      "huawei",
+      "pura-80-ultra",
+      "camera",
+      "premium"
+    ],
+    "short_description": "Premium Huawei camera phone for photography-focused buyers.",
+    "description": "## Huawei Pura 80 Ultra\nA premium camera-first Huawei phone for users who prioritize imaging hardware, design, and display quality.\n\n- Camera flagship\n- Premium body\n- Large display\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-044",
+    "slug": "asus-rog-phone-9-pro-512gb",
+    "sku": "RGS-MOB-ASU-ROG9P-512",
+    "brand": "Asus",
+    "model": "ROG Phone 9 Pro 512GB",
+    "price": 149999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "gaming"
+    ],
+    "tags": [
+      "asus",
+      "rog-phone-9-pro",
+      "gaming",
+      "5g"
+    ],
+    "short_description": "Gaming phone with performance-focused hardware and gamer styling.",
+    "description": "## Asus ROG Phone 9 Pro\nA gaming-focused phone for users who want sustained performance, high refresh display features, and large battery capacity.\n\n- Gaming-first hardware\n- High refresh display style\n- 5G support\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-045",
+    "slug": "sony-xperia-1-vii-256gb",
+    "sku": "RGS-MOB-SON-X1VII-256",
+    "brand": "Sony",
+    "model": "Xperia 1 VII 256GB",
+    "price": 159999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "camera-phone"
+    ],
+    "tags": [
+      "sony",
+      "xperia-1-vii",
+      "creator",
+      "camera"
+    ],
+    "short_description": "Sony creator-focused phone with camera and media features.",
+    "description": "## Sony Xperia 1 VII\nA creator-focused Android phone for users who value manual camera controls, media tools, and Sony's display tuning.\n\n- Creator camera tools\n- Premium display\n- 5G support\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-046",
+    "slug": "tcl-tcl-60-se-5g-256gb",
+    "sku": "RGS-MOB-TCL-60SE-256",
+    "brand": "TCL",
+    "model": "TCL 60 SE 5G 256GB",
+    "price": 24999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "budget"
+    ],
+    "tags": [
+      "tcl",
+      "budget",
+      "5g",
+      "value"
+    ],
+    "short_description": "Budget-friendly 5G phone for basic daily use.",
+    "description": "## TCL 60 SE 5G\nA budget Android phone for users who need 5G, a large screen, and enough storage for daily use.\n\n- Budget price point\n- 5G ready\n- Large display\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-047",
+    "slug": "tecno-tecno-camon-40-pro-5g-256gb",
+    "sku": "RGS-MOB-TEC-CAMON40P-256",
+    "brand": "Tecno",
+    "model": "Tecno Camon 40 Pro 5G 256GB",
+    "price": 32999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "budget"
+    ],
+    "tags": [
+      "tecno",
+      "camon-40-pro",
+      "camera",
+      "5g"
+    ],
+    "short_description": "Affordable Tecno camera phone with 5G support.",
+    "description": "## Tecno Camon 40 Pro 5G\nA budget-friendly camera phone for buyers who want modern styling, 5G, and good storage capacity.\n\n- 5G support\n- Camera-focused value\n- Large storage\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-048",
+    "slug": "infinix-infinix-note-50-pro-plus-5g-256gb",
+    "sku": "RGS-MOB-INF-NOTE50P-256",
+    "brand": "Infinix",
+    "model": "Infinix Note 50 Pro Plus 5G 256GB",
+    "price": 36999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "budget"
+    ],
+    "tags": [
+      "infinix",
+      "note-50-pro-plus",
+      "5g",
+      "value"
+    ],
+    "short_description": "Value Infinix phone with 5G, big display, and fast charging focus.",
+    "description": "## Infinix Note 50 Pro Plus 5G\nA value-focused Android phone for users who want a large display, 5G support, and strong charging features.\n\n- 5G ready\n- Large display\n- Fast charging focus\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-049",
+    "slug": "nokia-nokia-xr21-128gb",
+    "sku": "RGS-MOB-NOK-XR21-128",
+    "brand": "Nokia",
+    "model": "Nokia XR21 128GB",
+    "price": 39999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "rugged"
+    ],
+    "tags": [
+      "nokia",
+      "rugged",
+      "durable",
+      "android"
+    ],
+    "short_description": "Durable Android phone option for users who need a tougher daily device.",
+    "description": "## Nokia XR21\nA rugged-style phone for buyers who prioritize durability, simple Android use, and practical everyday reliability.\n\n- Durable design focus\n- Android phone\n- Practical daily use\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "mob-2025-050",
+    "slug": "samsung-galaxy-m56-5g-256gb",
+    "sku": "RGS-MOB-SAM-M56-256",
+    "brand": "Samsung",
+    "model": "Galaxy M56 5G 256GB",
+    "price": 49999,
+    "currency": "BDT",
+    "category": [
+      "mobile-phone",
+      "android",
+      "mid-range"
+    ],
+    "tags": [
+      "samsung",
+      "galaxy-m56",
+      "battery",
+      "5g"
+    ],
+    "short_description": "Galaxy M series phone for battery-focused everyday users.",
+    "description": "## Samsung Galaxy M56 5G\nA Galaxy M series phone for users who want strong battery life, 5G connectivity, and Samsung's familiar Android experience.\n\n- Battery focused\n- 5G ready\n- Large display\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "watch-2025-001",
+    "slug": "apple-apple-watch-series-11-46mm-gps",
+    "sku": "RGS-WAT-APL-S11-46GPS",
+    "brand": "Apple",
+    "model": "Apple Watch Series 11 46mm GPS",
+    "price": 59999,
+    "currency": "BDT",
+    "category": [
+      "smartwatch",
+      "wearable",
+      "ios"
+    ],
+    "tags": [
+      "apple",
+      "watch-series-11",
+      "fitness",
+      "health"
+    ],
+    "short_description": "Current Apple Watch model with health, fitness, and iPhone integration.",
+    "description": "## Apple Watch Series 11\nA smartwatch for iPhone users who want health tracking, workouts, notifications, and Apple ecosystem features.\n\n- iPhone compatible\n- Fitness and health tracking\n- Always-on style display\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "watch-2025-002",
+    "slug": "apple-apple-watch-series-11-42mm-gps",
+    "sku": "RGS-WAT-APL-S11-42GPS",
+    "brand": "Apple",
+    "model": "Apple Watch Series 11 42mm GPS",
+    "price": 54999,
+    "currency": "BDT",
+    "category": [
+      "smartwatch",
+      "wearable",
+      "ios"
+    ],
+    "tags": [
+      "apple",
+      "watch-series-11",
+      "42mm",
+      "fitness"
+    ],
+    "short_description": "Smaller Apple Watch Series 11 size for iPhone users.",
+    "description": "## Apple Watch Series 11 42mm\nA smaller Apple Watch option for iPhone users who want health metrics, workouts, and app notifications.\n\n- iPhone ecosystem\n- Fitness tracking\n- Smaller case size\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "watch-2025-003",
+    "slug": "apple-apple-watch-ultra-3",
+    "sku": "RGS-WAT-APL-ULTRA3",
+    "brand": "Apple",
+    "model": "Apple Watch Ultra 3",
+    "price": 109999,
+    "currency": "BDT",
+    "category": [
+      "smartwatch",
+      "wearable",
+      "outdoor"
+    ],
+    "tags": [
+      "apple",
+      "watch-ultra-3",
+      "outdoor",
+      "premium"
+    ],
+    "short_description": "Premium rugged Apple Watch for outdoor and fitness-heavy users.",
+    "description": "## Apple Watch Ultra 3\nA premium Apple Watch for users who want a rugged body, outdoor features, and longer battery focus.\n\n- Rugged Apple Watch design\n- Outdoor and fitness use\n- iPhone ecosystem\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "watch-2025-004",
+    "slug": "samsung-galaxy-watch8-44mm-bluetooth",
+    "sku": "RGS-WAT-SAM-W8-44BT",
+    "brand": "Samsung",
+    "model": "Galaxy Watch8 44mm Bluetooth",
+    "price": 38999,
+    "currency": "BDT",
+    "category": [
+      "smartwatch",
+      "wearable",
+      "android"
+    ],
+    "tags": [
+      "samsung",
+      "galaxy-watch8",
+      "wear-os",
+      "fitness"
+    ],
+    "short_description": "Samsung Wear OS watch for Android health tracking and notifications.",
+    "description": "## Samsung Galaxy Watch8\nA Samsung smartwatch for Android users who want fitness tracking, health insights, and Wear OS app support.\n\n- Wear OS platform\n- Fitness tracking\n- Android notifications\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "watch-2025-005",
+    "slug": "samsung-galaxy-watch8-classic-46mm-bluetooth",
+    "sku": "RGS-WAT-SAM-W8C-46BT",
+    "brand": "Samsung",
+    "model": "Galaxy Watch8 Classic 46mm Bluetooth",
+    "price": 57999,
+    "currency": "BDT",
+    "category": [
+      "smartwatch",
+      "wearable",
+      "android"
+    ],
+    "tags": [
+      "samsung",
+      "galaxy-watch8-classic",
+      "wear-os",
+      "classic"
+    ],
+    "short_description": "Classic-styled Galaxy Watch8 with premium watch design.",
+    "description": "## Samsung Galaxy Watch8 Classic\nA classic-styled Wear OS smartwatch for users who want Samsung health features with a more traditional watch look.\n\n- Classic watch styling\n- Wear OS support\n- Fitness tracking\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "watch-2025-006",
+    "slug": "samsung-galaxy-watch-ultra-2025",
+    "sku": "RGS-WAT-SAM-WU2025",
+    "brand": "Samsung",
+    "model": "Galaxy Watch Ultra 2025",
+    "price": 79999,
+    "currency": "BDT",
+    "category": [
+      "smartwatch",
+      "wearable",
+      "outdoor"
+    ],
+    "tags": [
+      "samsung",
+      "galaxy-watch-ultra",
+      "outdoor",
+      "wear-os"
+    ],
+    "short_description": "Rugged Galaxy Watch model for fitness, outdoor, and Android users.",
+    "description": "## Samsung Galaxy Watch Ultra 2025\nA rugged Galaxy smartwatch for Android users who want outdoor styling, fitness tools, and Wear OS features.\n\n- Rugged design\n- Wear OS support\n- Fitness and outdoor focus\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "watch-2025-007",
+    "slug": "google-pixel-watch-4-45mm",
+    "sku": "RGS-WAT-GGL-PW4-45",
+    "brand": "Google",
+    "model": "Pixel Watch 4 45mm",
+    "price": 59999,
+    "currency": "BDT",
+    "category": [
+      "smartwatch",
+      "wearable",
+      "android"
+    ],
+    "tags": [
+      "google",
+      "pixel-watch-4",
+      "wear-os",
+      "fitbit"
+    ],
+    "short_description": "Google Pixel Watch with Wear OS and Fitbit-style health tracking.",
+    "description": "## Google Pixel Watch 4\nA Google smartwatch for Android users who want Wear OS, Google services, and health tracking in a rounded design.\n\n- Wear OS support\n- Google app integration\n- Fitness tracking\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "watch-2025-008",
+    "slug": "google-pixel-watch-4-41mm",
+    "sku": "RGS-WAT-GGL-PW4-41",
+    "brand": "Google",
+    "model": "Pixel Watch 4 41mm",
+    "price": 52999,
+    "currency": "BDT",
+    "category": [
+      "smartwatch",
+      "wearable",
+      "android"
+    ],
+    "tags": [
+      "google",
+      "pixel-watch-4",
+      "41mm",
+      "wear-os"
+    ],
+    "short_description": "Smaller Pixel Watch option with Google and fitness features.",
+    "description": "## Google Pixel Watch 4 41mm\nA compact Pixel Watch option for Android users who want Google services, health metrics, and Wear OS apps.\n\n- Compact case size\n- Wear OS support\n- Fitness tracking\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "watch-2025-009",
+    "slug": "garmin-forerunner-970",
+    "sku": "RGS-WAT-GAR-F970",
+    "brand": "Garmin",
+    "model": "Forerunner 970",
+    "price": 97999,
+    "currency": "BDT",
+    "category": [
+      "smartwatch",
+      "wearable",
+      "sports"
+    ],
+    "tags": [
+      "garmin",
+      "forerunner-970",
+      "running",
+      "triathlon"
+    ],
+    "short_description": "Premium Garmin running and triathlon smartwatch.",
+    "description": "## Garmin Forerunner 970\nA sports-focused smartwatch for runners and triathletes who want advanced training metrics and long battery life.\n\n- Running and triathlon focus\n- Advanced training metrics\n- AMOLED display style\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "watch-2025-010",
+    "slug": "garmin-forerunner-570",
+    "sku": "RGS-WAT-GAR-F570",
+    "brand": "Garmin",
+    "model": "Forerunner 570",
+    "price": 69999,
+    "currency": "BDT",
+    "category": [
+      "smartwatch",
+      "wearable",
+      "sports"
+    ],
+    "tags": [
+      "garmin",
+      "forerunner-570",
+      "running",
+      "fitness"
+    ],
+    "short_description": "Garmin running smartwatch with training and recovery tools.",
+    "description": "## Garmin Forerunner 570\nA runner-focused smartwatch for training plans, recovery insights, and everyday fitness tracking.\n\n- Running tools\n- Fitness tracking\n- AMOLED display style\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "watch-2025-011",
+    "slug": "garmin-instinct-3-amoled",
+    "sku": "RGS-WAT-GAR-INST3",
+    "brand": "Garmin",
+    "model": "Instinct 3 AMOLED",
+    "price": 57999,
+    "currency": "BDT",
+    "category": [
+      "smartwatch",
+      "wearable",
+      "outdoor"
+    ],
+    "tags": [
+      "garmin",
+      "instinct-3",
+      "outdoor",
+      "amoled"
+    ],
+    "short_description": "Outdoor Garmin smartwatch with rugged styling and AMOLED display.",
+    "description": "## Garmin Instinct 3 AMOLED\nA rugged Garmin smartwatch for outdoor users who want durability, GPS tracking, and an AMOLED screen.\n\n- Outdoor focus\n- Rugged body style\n- GPS tracking\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "watch-2026-012",
+    "slug": "xiaomi-xiaomi-watch-5",
+    "sku": "RGS-WAT-XIA-W5",
+    "brand": "Xiaomi",
+    "model": "Xiaomi Watch 5",
+    "price": 34999,
+    "currency": "BDT",
+    "category": [
+      "smartwatch",
+      "wearable",
+      "android"
+    ],
+    "tags": [
+      "xiaomi",
+      "watch-5",
+      "wear-os",
+      "value"
+    ],
+    "short_description": "Xiaomi smartwatch option with modern Wear OS style features.",
+    "description": "## Xiaomi Watch 5\nA value-focused smartwatch for Android users who want app support, fitness tracking, and a clean modern design.\n\n- Android friendly\n- Fitness tracking\n- Good value positioning\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "watch-2025-013",
+    "slug": "xiaomi-xiaomi-watch-s4",
+    "sku": "RGS-WAT-XIA-S4",
+    "brand": "Xiaomi",
+    "model": "Xiaomi Watch S4",
+    "price": 22999,
+    "currency": "BDT",
+    "category": [
+      "smartwatch",
+      "wearable",
+      "value"
+    ],
+    "tags": [
+      "xiaomi",
+      "watch-s4",
+      "fitness",
+      "budget"
+    ],
+    "short_description": "Affordable Xiaomi smartwatch for fitness and notifications.",
+    "description": "## Xiaomi Watch S4\nA budget-friendly smartwatch for users who want fitness tracking, notifications, and long battery focus.\n\n- Fitness tracking\n- Notification support\n- Value price point\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "watch-2025-014",
+    "slug": "huawei-huawei-watch-gt-5-pro",
+    "sku": "RGS-WAT-HUA-GT5P",
+    "brand": "Huawei",
+    "model": "Huawei Watch GT 5 Pro",
+    "price": 54999,
+    "currency": "BDT",
+    "category": [
+      "smartwatch",
+      "wearable",
+      "fitness"
+    ],
+    "tags": [
+      "huawei",
+      "watch-gt-5-pro",
+      "fitness",
+      "premium"
+    ],
+    "short_description": "Premium Huawei watch with fitness tracking and long battery focus.",
+    "description": "## Huawei Watch GT 5 Pro\nA premium smartwatch for users who want a traditional watch look, fitness tools, and long battery life.\n\n- Fitness tracking\n- Premium design\n- Long battery focus\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "watch-2025-015",
+    "slug": "amazfit-amazfit-t-rex-3",
+    "sku": "RGS-WAT-AMZ-TREX3",
+    "brand": "Amazfit",
+    "model": "Amazfit T-Rex 3",
+    "price": 35999,
+    "currency": "BDT",
+    "category": [
+      "smartwatch",
+      "wearable",
+      "outdoor"
+    ],
+    "tags": [
+      "amazfit",
+      "t-rex-3",
+      "rugged",
+      "fitness"
+    ],
+    "short_description": "Rugged Amazfit smartwatch for outdoor and fitness use.",
+    "description": "## Amazfit T-Rex 3\nA rugged-style smartwatch for users who want outdoor tracking, fitness modes, and long battery life at a lower price.\n\n- Rugged design\n- Outdoor tracking\n- Strong battery focus\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "watch-2025-016",
+    "slug": "amazfit-amazfit-bip-6",
+    "sku": "RGS-WAT-AMZ-BIP6",
+    "brand": "Amazfit",
+    "model": "Amazfit Bip 6",
+    "price": 13999,
+    "currency": "BDT",
+    "category": [
+      "smartwatch",
+      "wearable",
+      "budget"
+    ],
+    "tags": [
+      "amazfit",
+      "bip-6",
+      "budget",
+      "fitness"
+    ],
+    "short_description": "Budget Amazfit smartwatch for basic health and notification features.",
+    "description": "## Amazfit Bip 6\nAn affordable smartwatch for buyers who want basic fitness tracking, notifications, and long battery life.\n\n- Budget friendly\n- Fitness modes\n- Notification support\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "watch-2025-017",
+    "slug": "oneplus-oneplus-watch-3",
+    "sku": "RGS-WAT-ONE-W3",
+    "brand": "OnePlus",
+    "model": "OnePlus Watch 3",
+    "price": 34999,
+    "currency": "BDT",
+    "category": [
+      "smartwatch",
+      "wearable",
+      "android"
+    ],
+    "tags": [
+      "oneplus",
+      "watch-3",
+      "android",
+      "fitness"
+    ],
+    "short_description": "OnePlus smartwatch for Android notifications, fitness, and long battery focus.",
+    "description": "## OnePlus Watch 3\nA smartwatch for Android users who want clean styling, fitness tracking, and OnePlus ecosystem compatibility.\n\n- Android friendly\n- Fitness tracking\n- Long battery focus\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "watch-2025-018",
+    "slug": "cmf-by-nothing-cmf-watch-pro-2",
+    "sku": "RGS-WAT-CMF-PRO2",
+    "brand": "CMF by Nothing",
+    "model": "CMF Watch Pro 2",
+    "price": 9999,
+    "currency": "BDT",
+    "category": [
+      "smartwatch",
+      "wearable",
+      "budget"
+    ],
+    "tags": [
+      "cmf",
+      "nothing",
+      "watch-pro-2",
+      "budget"
+    ],
+    "short_description": "Affordable CMF smartwatch with simple fitness and notification features.",
+    "description": "## CMF Watch Pro 2\nA low-cost smartwatch for users who want a modern look, basic health tracking, and notification support.\n\n- Budget friendly\n- Fitness tracking\n- Modern design\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "watch-2025-019",
+    "slug": "fitbit-fitbit-versa-5",
+    "sku": "RGS-WAT-FIT-VERSA5",
+    "brand": "Fitbit",
+    "model": "Fitbit Versa 5",
+    "price": 32999,
+    "currency": "BDT",
+    "category": [
+      "smartwatch",
+      "wearable",
+      "fitness"
+    ],
+    "tags": [
+      "fitbit",
+      "versa-5",
+      "fitness",
+      "health"
+    ],
+    "short_description": "Fitness-first smartwatch for health tracking and everyday notifications.",
+    "description": "## Fitbit Versa 5\nA fitness-focused smartwatch for users who want health metrics, sleep tracking, and simple daily notifications.\n\n- Fitness tracking\n- Sleep metrics\n- Lightweight daily watch\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "watch-2025-020",
+    "slug": "coros-coros-pace-pro",
+    "sku": "RGS-WAT-COR-PACEPRO",
+    "brand": "Coros",
+    "model": "Coros Pace Pro",
+    "price": 42999,
+    "currency": "BDT",
+    "category": [
+      "smartwatch",
+      "wearable",
+      "sports"
+    ],
+    "tags": [
+      "coros",
+      "pace-pro",
+      "running",
+      "sports"
+    ],
+    "short_description": "Sports watch for runners who want training metrics and strong battery life.",
+    "description": "## Coros Pace Pro\nA sports watch for runners and endurance users who want training metrics, GPS tracking, and long battery life.\n\n- Running focused\n- GPS tracking\n- Long battery focus\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "audio-2025-001",
+    "slug": "apple-airpods-pro-3",
+    "sku": "RGS-AUD-APL-APP3",
+    "brand": "Apple",
+    "model": "AirPods Pro 3",
+    "price": 36999,
+    "currency": "BDT",
+    "category": [
+      "bluetooth-headphone",
+      "earbuds",
+      "audio"
+    ],
+    "tags": [
+      "apple",
+      "airpods-pro-3",
+      "anc",
+      "wireless"
+    ],
+    "short_description": "Premium Apple earbuds with active noise cancellation and iPhone integration.",
+    "description": "## AirPods Pro 3\nPremium true wireless earbuds for Apple users who want ANC, spatial audio features, and easy pairing.\n\n- Active noise cancellation\n- iPhone ecosystem\n- True wireless earbuds\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "audio-2025-002",
+    "slug": "sony-wh-1000xm6-wireless-headphones",
+    "sku": "RGS-AUD-SON-WH1000XM6",
+    "brand": "Sony",
+    "model": "WH-1000XM6 Wireless Headphones",
+    "price": 54999,
+    "currency": "BDT",
+    "category": [
+      "bluetooth-headphone",
+      "over-ear",
+      "audio"
+    ],
+    "tags": [
+      "sony",
+      "wh-1000xm6",
+      "anc",
+      "over-ear"
+    ],
+    "short_description": "Premium Sony over-ear headphones with strong noise cancellation.",
+    "description": "## Sony WH-1000XM6\nPremium over-ear Bluetooth headphones for travel, work, and music listeners who want strong ANC and comfort.\n\n- Active noise cancellation\n- Over-ear design\n- Bluetooth wireless audio\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "audio-2025-003",
+    "slug": "bose-quietcomfort-ultra-headphones-2nd-gen",
+    "sku": "RGS-AUD-BOSE-QCUH2",
+    "brand": "Bose",
+    "model": "QuietComfort Ultra Headphones 2nd Gen",
+    "price": 59999,
+    "currency": "BDT",
+    "category": [
+      "bluetooth-headphone",
+      "over-ear",
+      "audio"
+    ],
+    "tags": [
+      "bose",
+      "quietcomfort-ultra",
+      "anc",
+      "premium"
+    ],
+    "short_description": "Bose premium over-ear headphones with comfort and adaptive noise cancellation.",
+    "description": "## Bose QuietComfort Ultra Headphones 2nd Gen\nPremium over-ear headphones for users who want comfort, adaptive noise cancellation, and immersive audio features.\n\n- Adaptive ANC\n- Comfortable over-ear design\n- Bluetooth wireless audio\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "audio-2025-004",
+    "slug": "bose-quietcomfort-ultra-earbuds-2nd-gen",
+    "sku": "RGS-AUD-BOSE-QCUE2",
+    "brand": "Bose",
+    "model": "QuietComfort Ultra Earbuds 2nd Gen",
+    "price": 39999,
+    "currency": "BDT",
+    "category": [
+      "bluetooth-headphone",
+      "earbuds",
+      "audio"
+    ],
+    "tags": [
+      "bose",
+      "quietcomfort-ultra-earbuds",
+      "anc",
+      "wireless"
+    ],
+    "short_description": "Premium Bose true wireless earbuds with active noise cancellation.",
+    "description": "## Bose QuietComfort Ultra Earbuds 2nd Gen\nPremium earbuds for users who want strong ANC, comfort, and a high-end wireless listening experience.\n\n- Active noise cancellation\n- True wireless design\n- Premium audio tuning\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "audio-2025-005",
+    "slug": "samsung-galaxy-buds3-pro",
+    "sku": "RGS-AUD-SAM-BUDS3P",
+    "brand": "Samsung",
+    "model": "Galaxy Buds3 Pro",
+    "price": 26999,
+    "currency": "BDT",
+    "category": [
+      "bluetooth-headphone",
+      "earbuds",
+      "audio"
+    ],
+    "tags": [
+      "samsung",
+      "galaxy-buds3-pro",
+      "anc",
+      "wireless"
+    ],
+    "short_description": "Samsung premium earbuds for Galaxy users with ANC and ecosystem features.",
+    "description": "## Samsung Galaxy Buds3 Pro\nPremium Samsung earbuds for Galaxy users who want ANC, clear calls, and easy device switching.\n\n- Active noise cancellation\n- Galaxy ecosystem\n- True wireless earbuds\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "audio-2025-006",
+    "slug": "samsung-galaxy-buds3",
+    "sku": "RGS-AUD-SAM-BUDS3",
+    "brand": "Samsung",
+    "model": "Galaxy Buds3",
+    "price": 18999,
+    "currency": "BDT",
+    "category": [
+      "bluetooth-headphone",
+      "earbuds",
+      "audio"
+    ],
+    "tags": [
+      "samsung",
+      "galaxy-buds3",
+      "wireless",
+      "earbuds"
+    ],
+    "short_description": "Samsung true wireless earbuds for daily calls and music.",
+    "description": "## Samsung Galaxy Buds3\nDaily-use Samsung earbuds for calls, music, and Galaxy ecosystem pairing.\n\n- True wireless earbuds\n- Galaxy pairing features\n- Compact charging case\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "audio-2025-007",
+    "slug": "sony-wf-1000xm6-earbuds",
+    "sku": "RGS-AUD-SON-WF1000XM6",
+    "brand": "Sony",
+    "model": "WF-1000XM6 Earbuds",
+    "price": 38999,
+    "currency": "BDT",
+    "category": [
+      "bluetooth-headphone",
+      "earbuds",
+      "audio"
+    ],
+    "tags": [
+      "sony",
+      "wf-1000xm6",
+      "anc",
+      "wireless"
+    ],
+    "short_description": "Sony premium noise-cancelling earbuds for music and travel.",
+    "description": "## Sony WF-1000XM6\nPremium Sony earbuds for users who want strong noise cancellation, compact design, and high-quality wireless audio.\n\n- Active noise cancellation\n- True wireless design\n- Premium audio focus\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "audio-2025-008",
+    "slug": "sennheiser-momentum-true-wireless-4",
+    "sku": "RGS-AUD-SNH-M4",
+    "brand": "Sennheiser",
+    "model": "Momentum True Wireless 4",
+    "price": 32999,
+    "currency": "BDT",
+    "category": [
+      "bluetooth-headphone",
+      "earbuds",
+      "audio"
+    ],
+    "tags": [
+      "sennheiser",
+      "momentum-true-wireless-4",
+      "audio",
+      "anc"
+    ],
+    "short_description": "Sennheiser premium earbuds for music-focused listeners.",
+    "description": "## Sennheiser Momentum True Wireless 4\nPremium earbuds for users who prioritize music quality, comfortable fit, and wireless convenience.\n\n- Music-focused tuning\n- True wireless design\n- ANC support\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "audio-2025-009",
+    "slug": "anker-soundcore-liberty-4-pro",
+    "sku": "RGS-AUD-ANK-LIBERTY4PRO",
+    "brand": "Anker Soundcore",
+    "model": "Liberty 4 Pro",
+    "price": 15999,
+    "currency": "BDT",
+    "category": [
+      "bluetooth-headphone",
+      "earbuds",
+      "audio"
+    ],
+    "tags": [
+      "soundcore",
+      "liberty-4-pro",
+      "value",
+      "anc"
+    ],
+    "short_description": "Value-focused wireless earbuds with ANC and app controls.",
+    "description": "## Soundcore Liberty 4 Pro\nA value wireless earbud option for users who want ANC, app controls, and good daily battery life.\n\n- ANC support\n- True wireless earbuds\n- Value price point\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": "audio-2025-010",
+    "slug": "jbl-live-beam-3",
+    "sku": "RGS-AUD-JBL-LIVEBEAM3",
+    "brand": "JBL",
+    "model": "Live Beam 3",
+    "price": 17999,
+    "currency": "BDT",
+    "category": [
+      "bluetooth-headphone",
+      "earbuds",
+      "audio"
+    ],
+    "tags": [
+      "jbl",
+      "live-beam-3",
+      "wireless",
+      "anc"
+    ],
+    "short_description": "JBL true wireless earbuds with ANC and punchy audio tuning.",
+    "description": "## JBL Live Beam 3\nTrue wireless JBL earbuds for users who want punchy sound, ANC features, and daily wireless convenience.\n\n- ANC support\n- True wireless earbuds\n- JBL sound profile\n- Dummy price for catalog testing",
+    "description_file": null,
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"
+  }
+]

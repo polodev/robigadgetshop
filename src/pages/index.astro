@@ -1,0 +1,142 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import ProductCard from "../components/ProductCard.astro";
+import products from "../content/products.json";
+import { collectionCount, labelize } from "../lib/catalog";
+
+const phones = products.filter((product) => product.category.includes("mobile-phone"));
+const watches = products.filter((product) => product.category.includes("smartwatch"));
+const audio = products.filter((product) => product.category.includes("bluetooth-headphone"));
+
+const featuredPhones = phones.slice(0, 12);
+const featuredWatches = watches.slice(0, 8);
+const featuredAudio = audio.slice(0, 8);
+const categories = Object.entries(collectionCount(products.flatMap((product) => product.category)))
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 10);
+const tags = Object.entries(collectionCount(products.flatMap((product) => product.tags)))
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 12);
+---
+
+<BaseLayout
+  title="Robi Gadget Shop | Mobiles, Smartwatches, Bluetooth Headphones"
+  description="Shop latest mobile phones, smartwatches, and bluetooth headphones in Bangladesh from Robi Gadget Shop."
+>
+  <section class="hero container">
+    <div class="hero-copy">
+      <p class="hero-kicker">Dhaka gadget catalog</p>
+      <h1>Latest phones, watches, and audio gear in one static shop.</h1>
+      <p>
+        Browse latest mobile phones, smartwatches, and wireless audio with Bangladesh pricing, ready for vendor API syncing later.
+      </p>
+      <div class="hero-actions">
+        <a class="button button-primary" href="#phones">Browse mobiles</a>
+        <a class="button" href="/category/flagship/">Flagship phones</a>
+      </div>
+    </div>
+    <div class="hero-board" aria-label="Featured product categories">
+      <a class="showcase-tile large" href="#phones">
+        <div>
+          <span class="tile-label">Mobile phones</span>
+          <div class="tile-title">{phones.length} current models</div>
+        </div>
+        <img class="tile-image phone" src={phones[0].image_url} alt="Latest mobile phones" />
+      </a>
+      <a class="showcase-tile" href="#watches">
+        <div>
+          <span class="tile-label">Smartwatches</span>
+          <div class="tile-title">{watches.length} wearables</div>
+        </div>
+        <img class="tile-image" src={watches[0].image_url} alt="Smartwatches" />
+      </a>
+      <a class="showcase-tile" href="#audio">
+        <div>
+          <span class="tile-label">Bluetooth audio</span>
+          <div class="tile-title">{audio.length} headphones</div>
+        </div>
+        <img class="tile-image" src={audio[0].image_url} alt="Bluetooth headphones" />
+      </a>
+    </div>
+  </section>
+
+  <section class="stats">
+    <div class="stat">
+      <strong>{phones.length}</strong>
+      <span>Mobile phones</span>
+    </div>
+    <div class="stat">
+      <strong>{watches.length}</strong>
+      <span>Smartwatches</span>
+    </div>
+    <div class="stat">
+      <strong>{audio.length}</strong>
+      <span>Bluetooth audio</span>
+    </div>
+  </section>
+
+  <section class="section section-compact">
+    <div class="container">
+      <div class="filter-strip">
+        <div>
+          <span class="product-meta">Shop by category</span>
+          <div class="filter-links">
+            {categories.map(([category, count]) => (
+              <a href={`/category/${category}/`}>{labelize(category)} <span>{count}</span></a>
+            ))}
+          </div>
+        </div>
+        <div>
+          <span class="product-meta">Popular tags</span>
+          <div class="filter-links">
+            {tags.map(([tag, count]) => (
+              <a href={`/tag/${tag}/`}>#{tag} <span>{count}</span></a>
+            ))}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="phones" class="section">
+    <div class="container">
+      <div class="section-head">
+        <div>
+          <h2>Mobile Phones</h2>
+          <p>Flagship, foldable, gaming, camera, and value Android/iOS models.</p>
+        </div>
+      </div>
+      <div class="product-grid">
+        {featuredPhones.map((product) => <ProductCard product={product} />)}
+      </div>
+    </div>
+  </section>
+
+  <section id="watches" class="section">
+    <div class="container">
+      <div class="section-head">
+        <div>
+          <h2>Smartwatches</h2>
+          <p>Wear OS, Apple Watch, Garmin sports watches, and budget wearables.</p>
+        </div>
+      </div>
+      <div class="product-grid">
+        {featuredWatches.map((product) => <ProductCard product={product} />)}
+      </div>
+    </div>
+  </section>
+
+  <section id="audio" class="section">
+    <div class="container">
+      <div class="section-head">
+        <div>
+          <h2>Bluetooth Headphones</h2>
+          <p>ANC earbuds, over-ear headphones, and daily wireless audio.</p>
+        </div>
+      </div>
+      <div class="product-grid">
+        {featuredAudio.map((product) => <ProductCard product={product} />)}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

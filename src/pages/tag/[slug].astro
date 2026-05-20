@@ -1,0 +1,45 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import ProductCard from "../../components/ProductCard.astro";
+import products from "../../content/products.json";
+import { collectionCount, labelize } from "../../lib/catalog";
+
+export function getStaticPaths() {
+  const tags = Array.from(new Set(products.flatMap((product) => product.tags)));
+  return tags.map((slug) => ({ params: { slug } }));
+}
+
+const { slug } = Astro.params;
+const matchingProducts = products.filter((product) => product.tags.includes(slug));
+const relatedCategories = Object.entries(collectionCount(matchingProducts.flatMap((product) => product.category)))
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 16);
+---
+
+<BaseLayout
+  title={`#${slug} Products | Robi Gadget Shop`}
+  description={`Browse products tagged ${slug} from Robi Gadget Shop in Bangladesh.`}
+>
+  <section class="collection-hero">
+    <div class="container collection-hero-inner">
+      <div>
+        <span class="product-meta">Tag</span>
+        <h1>#{slug}</h1>
+        <p>{matchingProducts.length} products available with this tag.</p>
+      </div>
+      <div class="filter-links">
+        {relatedCategories.map(([category, count]) => (
+          <a href={`/category/${category}/`}>{labelize(category)} <span>{count}</span></a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="product-grid">
+        {matchingProducts.map((product) => <ProductCard product={product} />)}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

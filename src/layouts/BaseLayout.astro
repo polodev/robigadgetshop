@@ -1,0 +1,48 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const {
+  title = "Robi Gadget Shop",
+  description = "Robi Gadget Shop catalog for mobile phones, smartwatches, and bluetooth headphones in Bangladesh.",
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content={description} />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="topbar">
+        <div class="topbar-inner">
+          <a class="brand" href="/">
+            <span class="brand-mark">R</span>
+            <span>Robi Gadget Shop</span>
+          </a>
+          <nav class="nav" aria-label="Main navigation">
+            <a href="/category/mobile-phone/">Mobiles</a>
+            <a href="/category/smartwatch/">Watches</a>
+            <a href="/category/bluetooth-headphone/">Audio</a>
+            <a href="/tag/5g/">5G Deals</a>
+          </nav>
+        </div>
+      </header>
+      <main>
+        <slot />
+      </main>
+      <footer class="footer">
+        Robi Gadget Shop. Dummy catalog data for development. Live vendor API sync will replace prices later.
+      </footer>
+    </div>
+  </body>
+</html>

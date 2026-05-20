@@ -1,0 +1,104 @@
+---
+import { marked } from "marked";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import products from "../../content/products.json";
+import { formatPrice, labelize } from "../../lib/catalog";
+
+export function getStaticPaths() {
+  return products.map((product) => ({
+    params: { slug: product.slug },
+    props: { product },
+  }));
+}
+
+const { product } = Astro.props;
+
+const descriptionHtml = marked.parse(product.description);
+---
+
+<BaseLayout
+  title={`${product.model} | Robi Gadget Shop`}
+  description={product.short_description}
+>
+  <section class="product-detail container">
+    <div class="media-panel">
+      <img class="detail-image" src={product.image_url} alt={product.model} />
+      <div class="trust-grid">
+        <span>Official-style catalog</span>
+        <span>BDT pricing</span>
+        <span>Dhaka delivery ready</span>
+      </div>
+    </div>
+
+    <aside class="buy-panel">
+      <div class="breadcrumb">
+        <a href="/">Home</a>
+        <span>/</span>
+        <a href={`/category/${product.category[0]}/`}>{labelize(product.category[0])}</a>
+      </div>
+      <span class="product-meta">{product.brand} · {product.sku}</span>
+      <h1>{product.model}</h1>
+      <p class="lead">{product.short_description}</p>
+
+      <div class="price-box">
+        <span class="price-label">Current price</span>
+        <div class="price detail-price">{formatPrice(product.price)}</div>
+        <span class="stock-line">In stock · Price will sync from vendor API later</span>
+      </div>
+
+      <div class="action-row">
+        <a class="button button-primary" href="tel:+8801700000000">Call shop</a>
+        <a class="button" href="/">Continue shopping</a>
+      </div>
+
+      <div class="link-group">
+        <span class="product-meta">Categories</span>
+        <div class="filter-links">
+          {product.category.map((category) => (
+            <a href={`/category/${category}/`}>{labelize(category)}</a>
+          ))}
+        </div>
+      </div>
+
+      <div class="link-group">
+        <span class="product-meta">Tags</span>
+        <div class="filter-links">
+          {product.tags.map((tag) => (
+            <a href={`/tag/${tag}/`}>#{tag}</a>
+          ))}
+        </div>
+      </div>
+    </aside>
+  </section>
+
+  <section class="section">
+    <div class="container product-info-grid">
+      <article class="description" set:html={descriptionHtml} />
+      <aside class="spec-panel">
+        <h2>Product Details</h2>
+        <dl>
+          <div>
+            <dt>Brand</dt>
+            <dd>{product.brand}</dd>
+          </div>
+          <div>
+            <dt>Model</dt>
+            <dd>{product.model}</dd>
+          </div>
+          <div>
+            <dt>Slug</dt>
+            <dd>{product.slug}</dd>
+          </div>
+          <div>
+            <dt>SKU</dt>
+            <dd>{product.sku}</dd>
+          </div>
+          <div>
+            <dt>Currency</dt>
+            <dd>{product.currency}</dd>
+          </div>
+        </dl>
+      </aside>
+    </div>
+  </section>
+</BaseLayout>
