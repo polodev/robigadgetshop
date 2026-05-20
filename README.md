@@ -20,5 +20,5 @@ npm run build
 The production site is configured for GitHub Pages at:
 
 ```txt
-https://polodev.github.io/robigadgetshop/
+https://robigadgetshop.com/
 ```
