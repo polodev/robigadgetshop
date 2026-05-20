@@ -2,7 +2,7 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import ProductCard from "../components/ProductCard.astro";
 import products from "../content/products.json";
-import { collectionCount, labelize } from "../lib/catalog";
+import { collectionCount, labelize, sitePath } from "../lib/catalog";
 
 const phones = products.filter((product) => product.category.includes("mobile-phone"));
 const watches = products.filter((product) => product.category.includes("smartwatch"));
@@ -32,7 +32,7 @@ const tags = Object.entries(collectionCount(products.flatMap((product) => produc
       </p>
       <div class="hero-actions">
         <a class="button button-primary" href="#phones">Browse mobiles</a>
-        <a class="button" href="/category/flagship/">Flagship phones</a>
+        <a class="button" href={sitePath("/category/flagship/")}>Flagship phones</a>
       </div>
     </div>
     <div class="hero-board" aria-label="Featured product categories">
@@ -82,7 +82,7 @@ const tags = Object.entries(collectionCount(products.flatMap((product) => produc
           <span class="product-meta">Shop by category</span>
           <div class="filter-links">
             {categories.map(([category, count]) => (
-              <a href={`/category/${category}/`}>{labelize(category)} <span>{count}</span></a>
+              <a href={sitePath(`/category/${category}/`)}>{labelize(category)} <span>{count}</span></a>
             ))}
           </div>
         </div>
@@ -90,7 +90,7 @@ const tags = Object.entries(collectionCount(products.flatMap((product) => produc
           <span class="product-meta">Popular tags</span>
           <div class="filter-links">
             {tags.map(([tag, count]) => (
-              <a href={`/tag/${tag}/`}>#{tag} <span>{count}</span></a>
+              <a href={sitePath(`/tag/${tag}/`)}>#{tag} <span>{count}</span></a>
             ))}
           </div>
         </div>

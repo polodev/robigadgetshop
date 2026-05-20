@@ -2,7 +2,7 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import ProductCard from "../../components/ProductCard.astro";
 import products from "../../content/products.json";
-import { collectionCount, labelize } from "../../lib/catalog";
+import { collectionCount, labelize, sitePath } from "../../lib/catalog";
 
 export function getStaticPaths() {
   const categories = Array.from(new Set(products.flatMap((product) => product.category)));
@@ -29,7 +29,7 @@ const relatedTags = Object.entries(collectionCount(matchingProducts.flatMap((pro
       </div>
       <div class="filter-links">
         {relatedTags.map(([tag, count]) => (
-          <a href={`/tag/${tag}/`}>#{tag} <span>{count}</span></a>
+          <a href={sitePath(`/tag/${tag}/`)}>#{tag} <span>{count}</span></a>
         ))}
       </div>
     </div>

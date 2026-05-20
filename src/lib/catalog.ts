@@ -16,3 +16,15 @@ export const collectionCount = (items: string[]) =>
     counts[item] = (counts[item] ?? 0) + 1;
     return counts;
   }, {});
+
+export const sitePath = (path = "/") => {
+  const base = import.meta.env.BASE_URL || "/";
+  const cleanBase = base.endsWith("/") ? base.slice(0, -1) : base;
+  const cleanPath = path.startsWith("/") ? path : `/${path}`;
+
+  if (cleanPath === "/") {
+    return `${cleanBase || "/"}/`;
+  }
+
+  return `${cleanBase}${cleanPath}`;
+};

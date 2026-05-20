@@ -1,5 +1,6 @@
 ---
 import "../styles/global.css";
+import { sitePath } from "../lib/catalog";
 
 interface Props {
   title?: string;
@@ -25,15 +26,15 @@ const {
     <div class="site-shell">
       <header class="topbar">
         <div class="topbar-inner">
-          <a class="brand" href="/">
+          <a class="brand" href={sitePath("/")}>
             <span class="brand-mark">R</span>
             <span>Robi Gadget Shop</span>
           </a>
           <nav class="nav" aria-label="Main navigation">
-            <a href="/category/mobile-phone/">Mobiles</a>
-            <a href="/category/smartwatch/">Watches</a>
-            <a href="/category/bluetooth-headphone/">Audio</a>
-            <a href="/tag/5g/">5G Deals</a>
+            <a href={sitePath("/category/mobile-phone/")}>Mobiles</a>
+            <a href={sitePath("/category/smartwatch/")}>Watches</a>
+            <a href={sitePath("/category/bluetooth-headphone/")}>Audio</a>
+            <a href={sitePath("/tag/5g/")}>5G Deals</a>
           </nav>
         </div>
       </header>

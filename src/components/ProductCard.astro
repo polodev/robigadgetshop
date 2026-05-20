@@ -1,21 +1,21 @@
 ---
-import { formatPrice, labelize } from "../lib/catalog";
+import { formatPrice, labelize, sitePath } from "../lib/catalog";
 
 const { product } = Astro.props;
 ---
 
 <article class="product-card">
-  <a class="product-image-wrap" href={`/products/${product.slug}/`}>
+  <a class="product-image-wrap" href={sitePath(`/products/${product.slug}/`)}>
     <img class="product-image" src={product.image_url} alt={product.model} loading="lazy" />
     <span class="stock-pill">In stock</span>
   </a>
   <div class="product-card-body">
     <span class="product-meta">{product.brand} · {product.sku}</span>
-    <h3><a href={`/products/${product.slug}/`}>{product.model}</a></h3>
+    <h3><a href={sitePath(`/products/${product.slug}/`)}>{product.model}</a></h3>
     <p>{product.short_description}</p>
     <div class="card-tags">
       {product.category.slice(0, 2).map((category) => (
-        <a href={`/category/${category}/`}>{labelize(category)}</a>
+        <a href={sitePath(`/category/${category}/`)}>{labelize(category)}</a>
       ))}
     </div>
     <div class="card-bottom">
@@ -23,7 +23,7 @@ const { product } = Astro.props;
         <span class="price-label">Price</span>
         <div class="price">{formatPrice(product.price)}</div>
       </div>
-      <a class="view-link" href={`/products/${product.slug}/`}>View</a>
+      <a class="view-link" href={sitePath(`/products/${product.slug}/`)}>View</a>
     </div>
   </div>
 </article>

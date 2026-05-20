@@ -2,7 +2,7 @@
 import { marked } from "marked";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import products from "../../content/products.json";
-import { formatPrice, labelize } from "../../lib/catalog";
+import { formatPrice, labelize, sitePath } from "../../lib/catalog";
 
 export function getStaticPaths() {
   return products.map((product) => ({
@@ -32,9 +32,9 @@ const descriptionHtml = marked.parse(product.description);
 
     <aside class="buy-panel">
       <div class="breadcrumb">
-        <a href="/">Home</a>
+        <a href={sitePath("/")}>Home</a>
         <span>/</span>
-        <a href={`/category/${product.category[0]}/`}>{labelize(product.category[0])}</a>
+        <a href={sitePath(`/category/${product.category[0]}/`)}>{labelize(product.category[0])}</a>
       </div>
       <span class="product-meta">{product.brand} · {product.sku}</span>
       <h1>{product.model}</h1>
@@ -48,14 +48,14 @@ const descriptionHtml = marked.parse(product.description);
 
       <div class="action-row">
         <a class="button button-primary" href="tel:+8801700000000">Call shop</a>
-        <a class="button" href="/">Continue shopping</a>
+        <a class="button" href={sitePath("/")}>Continue shopping</a>
       </div>
 
       <div class="link-group">
         <span class="product-meta">Categories</span>
         <div class="filter-links">
           {product.category.map((category) => (
-            <a href={`/category/${category}/`}>{labelize(category)}</a>
+            <a href={sitePath(`/category/${category}/`)}>{labelize(category)}</a>
           ))}
         </div>
       </div>
@@ -64,7 +64,7 @@ const descriptionHtml = marked.parse(product.description);
         <span class="product-meta">Tags</span>
         <div class="filter-links">
           {product.tags.map((tag) => (
-            <a href={`/tag/${tag}/`}>#{tag}</a>
+            <a href={sitePath(`/tag/${tag}/`)}>#{tag}</a>
           ))}
         </div>
       </div>
