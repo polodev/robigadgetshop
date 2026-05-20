@@ -27,7 +27,7 @@ const {
       <header class="topbar">
         <div class="topbar-inner">
           <a class="brand" href={sitePath("/")}>
-            <span class="brand-mark">R</span>
+            <img class="brand-logo" src={sitePath("/images/logo.webp")} alt="Robi Gadget Shop" />
             <span>Robi Gadget Shop</span>
           </a>
           <nav class="nav" aria-label="Main navigation">
@@ -42,7 +42,41 @@ const {
         <slot />
       </main>
       <footer class="footer">
-        Robi Gadget Shop. Dummy catalog data for development. Live vendor API sync will replace prices later.
+        <div class="footer-inner">
+          <div class="footer-brand">
+            <a class="brand" href={sitePath("/")}>
+              <img class="brand-logo footer-logo" src={sitePath("/images/logo.webp")} alt="Robi Gadget Shop" />
+              <span>Robi Gadget Shop</span>
+            </a>
+            <p>
+              A static gadget storefront for mobile phones, smartwatches, and bluetooth audio in Bangladesh.
+            </p>
+          </div>
+          <div class="footer-links">
+            <div>
+              <h2>Shop</h2>
+              <a href={sitePath("/category/mobile-phone/")}>Mobile phones</a>
+              <a href={sitePath("/category/smartwatch/")}>Smartwatches</a>
+              <a href={sitePath("/category/bluetooth-headphone/")}>Bluetooth audio</a>
+            </div>
+            <div>
+              <h2>Explore</h2>
+              <a href={sitePath("/category/flagship/")}>Flagship</a>
+              <a href={sitePath("/tag/5g/")}>5G</a>
+              <a href={sitePath("/tag/anc/")}>ANC audio</a>
+            </div>
+            <div>
+              <h2>Store</h2>
+              <span>Dhaka, Bangladesh</span>
+              <span>Price sync planned from vendor API</span>
+              <span>No checkout enabled</span>
+            </div>
+          </div>
+        </div>
+        <div class="footer-bottom">
+          <span>© 2026 Robi Gadget Shop</span>
+          <span>Static catalog powered by Astro and GitHub Pages</span>
+        </div>
       </footer>
     </div>
   </body>
