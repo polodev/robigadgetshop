@@ -23,7 +23,7 @@ export const sitePath = (path = "/") => {
   const cleanPath = path.startsWith("/") ? path : `/${path}`;
 
   if (cleanPath === "/") {
-    return `${cleanBase || "/"}/`;
+    return cleanBase ? `${cleanBase}/` : "/";
   }
 
   return `${cleanBase}${cleanPath}`;
